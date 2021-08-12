@@ -1,0 +1,11 @@
+# programming
+*.o
+*.pyc
+__pycache__/*
+
+# big images
+*.tif
+
+# editor
+*~
+*.swp
